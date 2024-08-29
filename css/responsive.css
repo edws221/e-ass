@@ -1,13 +1,5 @@
 /* Responsive CSS Document */
 
-/* 
-    Created on   : 15/09/2023.
-    Theme Name   : Babun - Business & Finance HTML5 Template
-    Version      : 1.0.
-    Developed by : (me@heloshape.com) / (www.me.heloshape.com)
-   
-*/
-
 @media (min-width: 992px) {
   .container {padding-right: 0;padding-left: 0;}
 }
